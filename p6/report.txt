@@ -1,0 +1,2 @@
+naive comps = 239901, KMP comps = 258816
+
